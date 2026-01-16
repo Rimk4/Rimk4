@@ -119,7 +119,7 @@
 ## 📊 GitHub Statistics
 
 ### Daily Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rimk4&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Rimk4&theme=dark)](https://git.io/streak-stats)
 
 ### Development Metrics
 ![GitHub Stats](https://github-readme-stats-psi-one-58.vercel.app/api?username=Rimk4&theme=onedark&show_icons=true&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide=prs,issues&title_color=FF6B6B&text_color=C9D1D9&icon_color=4ECDC4)
