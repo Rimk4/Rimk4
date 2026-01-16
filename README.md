@@ -116,42 +116,23 @@
 ---
 
 **✨ Готов к интересным вызовам и участию в сложных проектах!**
+## 📊 GitHub Statistics
 
-### 📈 GitHub Analytics
+### Daily Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rimk4&theme=dark)](https://git.io/streak-stats)
 
-<div align="center">
+### Development Metrics
+![GitHub Stats](https://github-readme-stats-psi-one-58.vercel.app/api?username=Rimk4&theme=onedark&show_icons=true&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide=prs,issues&title_color=FF6B6B&text_color=C9D1D9&icon_color=4ECDC4)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=onedark&hide_border=true&bg_color=0D1117&show_icons=true&include_all_commits=true&count_private=true&custom_title=Rimk4%27s%20GitHub%20Stats)
+### Coding Languages
+![Top Languages](https://github-readme-stats-psi-one-58.vercel.app/api/top-langs/?username=Rimk4&theme=onedark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&hide=html,css,scss,javascript,typescript)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=onedark&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6&exclude_repo=repo1,repo2)
+### Weekly Activity
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rimk4&theme=react-dark&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117&height=250)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rimk4&theme=onedark&hide_border=true&background=0D1117&dates=FFFFFF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=dark&hide_border=true&layout=compact&langs_count=8)
-
-### 👨‍💻 Coding Activity
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rimk4&theme=radical&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=dark&hide_border=true&layout=compact&langs_count=8&exclude_repo=)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rimk4&theme=dark&hide_border=true)
-
+### 📊 Detailed Analytics
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rimk4&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimk4&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
 </div>
