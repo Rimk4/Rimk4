@@ -118,3 +118,71 @@
 ---
 
 **✨ Готов к интересным вызовам и участию в сложных проектах!**
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=onedark&hide_border=true&bg_color=0D1117&show_icons=true&include_all_commits=true&count_private=true&custom_title=Rimk4%27s%20GitHub%20Stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=onedark&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6&exclude_repo=repo1,repo2)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rimk4&theme=onedark&hide_border=true&background=0D1117&dates=FFFFFF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=dark&hide_border=true&layout=compact&langs_count=8)
+
+### 👨‍💻 Coding Activity
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rimk4&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=radical&hide_border=true&layout=compact)
+
+</div>
+
+## 🛠 Tech Stack
+
+**Languages & Embedded:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
+**Embedded Platforms:**
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RTOS](https://img.shields.io/badge/RTOS-00A98F?style=for-the-badge&logo=freertos&logoColor=white)
+
+**Tools & DevOps:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+**Protocols & Debugging:**
+![SPI](https://img.shields.io/badge/SPI-FF6F00?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-9C27B0?style=for-the-badge)
+![USB](https://img.shields.io/badge/USB-0033A0?style=for-the-badge&logo=usb&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-4B5320?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=dark&hide_border=true&layout=compact&langs_count=8&exclude_repo=)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rimk4&theme=dark&hide_border=true)
+
+</div>
