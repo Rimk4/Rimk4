@@ -11,8 +11,6 @@
 
 ## 🛠️ Технологический стек
 
-### 🚀 Tech Stack
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -145,35 +143,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&theme=radical&hide_border=true&layout=compact)
 
 </div>
-
-## 🛠 Tech Stack
-
-**Languages & Embedded:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-
-**Embedded Platforms:**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RTOS](https://img.shields.io/badge/RTOS-00A98F?style=for-the-badge&logo=freertos&logoColor=white)
-
-**Tools & DevOps:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-**Protocols & Debugging:**
-![SPI](https://img.shields.io/badge/SPI-FF6F00?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-9C27B0?style=for-the-badge)
-![USB](https://img.shields.io/badge/USB-0033A0?style=for-the-badge&logo=usb&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-4B5320?style=for-the-badge)
-
----
 
 ## 📊 GitHub Stats
 
