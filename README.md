@@ -125,7 +125,7 @@
 ![GitHub Stats](https://github-readme-stats-psi-one-58.vercel.app/api?username=Rimk4&theme=onedark&show_icons=true&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide=prs,issues&title_color=FF6B6B&text_color=C9D1D9&icon_color=4ECDC4)
 
 ### Coding Languages
-![Top Languages](https://github-readme-stats-psi-one-58.vercel.app/api/top-langs/?username=Rimk4&theme=onedark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&hide=html,css,scss,javascript,typescript)
+![Top Languages](https://github-readme-stats-psi-one-58.vercel.app/api/top-langs/?username=Rimk4&theme=onedark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
 
 ### Weekly Activity
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rimk4&theme=react-dark&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117&height=250)
