@@ -135,5 +135,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rimk4&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimk4&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
 </div>
