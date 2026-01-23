@@ -121,10 +121,10 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Rimk4&theme=dark)
 
 ### Development Metrics
-![GitHub Stats](https://github-readme-stats-psi-one-58.vercel.app/api?username=Rimk4&theme=onedark&show_icons=true&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide=prs,issues&title_color=FF6B6B&text_color=C9D1D9&icon_color=4ECDC4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&include_all_commits=true&count_private=true&theme=onedark&show_icons=true&bg_color=0D1117&hide=prs,issues&title_color=FF6B6B&text_color=C9D1D9&icon_color=4ECDC4)
 
 ### Coding Languages
-![Top Languages](https://github-readme-stats-psi-one-58.vercel.app/api/top-langs/?username=Rimk4&theme=onedark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&stats_format=bytes&theme=onedark&bg_color=0D1117&text_color=C9D1D9)
 
 ### Weekly Activity
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rimk4&theme=react-dark&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117&height=250)
