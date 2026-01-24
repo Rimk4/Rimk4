@@ -117,9 +117,6 @@
 **✨ Готов к интересным вызовам и участию в сложных проектах!**
 ## 📊 GitHub Statistics
 
-### Daily Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Rimk4&theme=dark)
-
 ### Development Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&include_all_commits=true&count_private=true&theme=onedark&show_icons=true&bg_color=0D1117&hide=prs,issues&title_color=FF6B6B&text_color=C9D1D9&icon_color=4ECDC4)
 
