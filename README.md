@@ -1,127 +1,112 @@
-# 👋 Roman | Системный / Embedded разработчик
+# 👋 Hi, I'm Roman | Systems / Embedded C/C++ Developer
 
-**C/C++ Developer** с 5-летним опытом в embedded, системном программировании и настройке CI/CD для встраиваемых систем. Специализируюсь на создании низкоуровневого ПО, работе с микроконтроллерами (STM32, bare-metal), портировании драйверов в Linux и построении инфраструктуры для автоматизированной сборки и тестирования.
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Rimk4)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Rimk4)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Rimk4)
+[![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Rimk4)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Rimk4)
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://github.com/Rimk4)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Rimk4)
+[![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/Rimk4)
 
-📍 **Локация:** Санкт-Петербург / Москва / Удалённо  
-📧 **Email:** rimka.aromaug@gmail.com  
-📞 **Телефон:** +7 992 202-60-24  
+**Middle C/C++ Developer** with ~5 years of experience in embedded systems, systems programming, and infrastructure automation. I specialize in low-level software development (STM32, bare-metal), Linux system programming (drivers, daemons, IPC), and building robust CI/CD pipelines for embedded projects.
 
----
-
-## 🛠️ Технологический стек
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-### **Языки программирования**
-- **C/C++** (продвинутый) — основной язык для embedded и системного ПО.
-- **Python** (средний) — скриптование, утилиты автоматизации, инструменты CI/CD.
-- **Bash/Shell** — автоматизация, системные скрипты.
-- **ARM Assembly** (базовый) — для понимания низкоуровневых оптимизаций.
-
-### **Embedded разработка**
-- **Микроконтроллеры:** ARM Cortex-M (STM32), программирование на уровне регистров (без HAL), тактирование, энергопотребление.
-- **Периферия и драйверы:** SPI, I2C, UART, USB (CDC), ADC, DMA, работа с дисплеями и датчиками.
-- **Отладка:** JTAG/SWD (ST-Link, J-Link), логические анализаторы, осциллографы.
-- **Операционные системы:** RTOS, bare-metal разработка, Linux для embedded.
-
-### **Системное программирование (Linux)**
-- **Пространство ядра / модули:** портирование драйверов устройств.
-- **Пользовательское пространство:** системные демоны, многопоточность (`pthreads`), межпроцессное взаимодействие (IPC): shared memory, сокеты, пайпы.
-- **Сетевое программирование:** сокеты (TCP/UDP), высокопроизводительные серверы (epoll), `tcpdump/Wireshark`.
-- **Инструменты отладки:** GDB, strace, ltrace, perf, valgrind.
-
-### **Инструменты и инфраструктура**
-- **Системы контроля версий:** Git, Git Flow.
-- **Сборка:** Make, CMake, Autotools.
-- **CI/CD:** GitLab CI/CD, Docker, создание и управление пайплайнами для embedded-проектов.
-- **Сборка образов ОС:** Buildroot, Yocto (базовый опыт).
-- **Документирование:** Doxygen.
-- **Методологии:** Agile/Scrum, Code Review, TDD.
+📍 **Location:** St. Petersburg / Moscow / Remote  
+📧 **Email:** [rimka.aromaug@gmail.com](mailto:rimka.aromaug@gmail.com)  
+📞 **Phone:** +7 992 202-60-24  
 
 ---
 
-## 💼 Ключевые проекты и опыт
+## 🛠️ Tech Stack & Expertise
 
-### **🔧 Разработка firmware для STM32 (bare-metal)**
-*Полный цикл разработки ПО для промышленных контроллеров.*
+### **Core Languages**
+- **C/C++** (Advanced, C++11/14/17/20/23) — Primary languages for embedded and systems software.
+- **Python** (Intermediate) — Tooling, automation scripts, CI/CD integration.
+- **Bash/Shell** — System scripting and automation.
+- **ARM Assembly** (Basic) — For low-level understanding and optimizations.
 
-- Разработка драйверов периферии (SPI для дисплея, I2C для датчиков, 12-битный ADC) на регистровом уровне с использованием DMA для максимальной производительности.
-- Оптимизация тактирования и энергопотребления микроконтроллера.
-- Аппаратная отладка с использованием осциллографа и логического анализатора для внесения корректировок в схемотехнику.
+### **Embedded Development**
+- **Microcontrollers:** ARM Cortex-M (STM32), Register-level programming (no HAL), Clock management, Power optimization.
+- **Peripherals & Drivers:** SPI, I2C, UART, USB (CDC), ADC, DMA, Display and sensor interfacing.
+- **Debugging:** JTAG/SWD (ST-Link, J-Link), Logic analyzers, Oscilloscopes.
+- **OS & Environments:** RTOS, Bare-metal, Embedded Linux.
 
-### **🖥️ Портирование драйвера USB CDC в embedded Linux**
-*Разработка низкоуровневого ПО для встраиваемой платформы.*
+### **Systems Programming (Linux)**
+- **Kernel Space:** Device driver porting and module development.
+- **User Space:** High-performance daemons, Multithreading (`pthreads`), IPC (Shared memory, sockets, pipes, netlink).
+- **Network Programming:** TCP/UDP sockets, High-performance servers (epoll), Traffic analysis (`tcpdump`/Wireshark).
+- **Debugging & Profiling:** GDB, `strace`/`ltrace`, `perf`, Valgrind.
 
-- Портирование драйвера из mainline ядра Linux в кастомную embedded-систему.
-- Обеспечение стабильной работы в реальном времени, отладка проблем синхронизации.
-- Разработка системного демона для сбора метрик с использованием shared memory и netlink socket.
-
-### **🚀 Построение CI/CD пайплайна для embedded-проектов**
-*Автоматизация процессов сборки, тестирования и релиза.*
-
-- Полная настройка пайплайна в GitLab CI: сборка в Docker-контейнерах, запуск юнит-тестов, статический анализ кода (Cppcheck), проверка стиля.
-- Автоматизация выпуска релизов: сборка артефактов (прошивки, образы) по тегу и публикация на удалённый сервер.
-- Создание системы управления Docker-образами (GitLab Container Registry).
-- Разработка Python-скриптов для валидации changelog и генерации шаблонов для unit-тестов.
-
-### **🌐 Легковесный TCP/IP стек и рефакторинг legacy-системы**
-*Разработка сетевого шлюза для промышленной системы.*
-
-- Реализация с нуля пользовательского TCP/IP стека, включая state machine для TCP-сервера.
-- Создание поверх него lightweight HTTP-сервера для API устройства.
-- Полный рефакторинг монолитной системы: выделение модульной архитектуры (диспетчер серверов, менеджер соединений), применение паттернов проектирования. Результат: повышение читаемости кода и упрощение онбординга новых разработчиков.
+### **Infrastructure & Tools**
+- **Version Control:** Git, Git Flow.
+- **Build Systems:** Make, CMake, Autotools.
+- **CI/CD:** GitLab CI/CD, Docker, Pipeline design for embedded projects.
+- **OS Build Systems:** Buildroot, Yocto (basic).
+- **Documentation:** Doxygen.
+- **Methodologies:** Agile/Scrum, Rigorous Code Review, TDD.
 
 ---
 
-## 📚 Образование
+## 💼 Featured Projects & Experience
 
-**СПбПУ (Политех Петра Великого)**  
-Факультет: Физико-Механический  
-Направление: Прикладная математика и информатика  
-Степень: Бакалавр  
-Год окончания: 2025
+### **🔧 Bare-metal Firmware for STM32**
+*Full-cycle firmware development for industrial controllers.*
+- Developed peripheral drivers (SPI for displays, I2C for sensors, 12-bit ADC) at the register level, utilizing DMA for zero-copy data transfer.
+- Optimized clock trees and power management for low-power operation.
+- Performed hardware debugging with oscilloscopes and logic analyzers to validate and refine the circuit design.
 
----
+### **🖥️ Porting a USB CDC Driver to Embedded Linux**
+*Low-level systems programming for a custom embedded platform.*
+- Ported a USB CDC driver from the mainline Linux kernel to a custom embedded system.
+- Ensured real-time stability and debugged complex synchronization issues.
+- Developed a system daemon for metric collection using shared memory and netlink sockets.
 
-## 🎯 Карьерные цели
+### **🚀 CI/CD Pipeline for Embedded Projects**
+*Automating build, test, and release processes.*
+- Architected and implemented GitLab CI pipelines from scratch: building firmware in Docker containers, running unit tests, integrating static analysis (Cppcheck), and enforcing code style.
+- Automated release workflows: building artifacts (firmware, OS images) on git tags and publishing to a remote server.
+- Created Python utilities for changelog validation in Merge Requests and auto-generating unit test templates.
 
-Стремлюсь к позиции, где востребован глубокий опыт работы на стыке hardware и software. Интересны сложные задачи в области:
-
-- Разработки и оптимизации низкоуровневого ПО (драйверы, firmware, протоколы).
-- Создания высокопроизводительных и надежных систем под Linux.
-- Построения и улучшения DevOps-практик для embedded-разработки.
-
-Открыт к релокации в Москву, Санкт-Петербург или к удалённой работе.
-
----
-
-## 📂 Структура репозиториев
-
-*В этом профиле вы найдете проекты, отражающие мой опыт:*
-
-- **`embedded-stm32-examples/`** — Примеры низкоуровневых драйверов для STM32 (SPI, I2C, ADC с DMA).
-- **`linux-system-programming/`** — Примеры многопоточных приложений, IPC, системных демонов.
-- **`ci-cd-templates/`** — Шаблоны и утилиты для настройки GitLab CI/CD пайплайнов для embedded.
-- **`network-server-example/`** — Пример высокопроизводительного TCP-сервера на C с использованием epoll.
+### **🌐 High-Load Network Gateway & Legacy Code Modernization**
+*Building a scalable network gateway for an industrial IoT platform.*
+- **Architectural Redesign:** Analyzed a monolithic legacy system and architected a new modular system with clear microservice boundaries (Connection Dispatcher, TCP Server, Data Manager).
+- **Network Microservices:** Engineered a high-performance, custom TCP server with a robust connection state machine and application-level protocols over TCP.
+- **High-Load Optimization:** Optimized buffer management and connection handling to support tens of thousands of concurrent sessions using `epoll` for asynchronous I/O.
+- **Refactoring:** Executed a comprehensive refactoring, extracting core logic into reusable libraries, significantly improving code readability and developer onboarding.
 
 ---
 
-**✨ Готов к интересным вызовам и участию в сложных проектах!**
+## 📚 Education
+
+**Peter the Great St. Petersburg Polytechnic University (SPbPU)**  
+Faculty of Physics and Mechanics  
+*Applied Mathematics and Computer Science*  
+**Degree:** Bachelor's (Expected 2025)
+
+---
+
+## 🎯 Career Interests
+
+I thrive at the intersection of hardware and software. I'm seeking a role where I can apply my deep systems knowledge to complex challenges in:
+
+- Low-level software development (drivers, firmware, protocols).
+- High-performance and reliable Linux systems.
+- Implementing and improving DevOps practices for embedded development.
+
+Open to opportunities in St. Petersburg, Moscow, or remote work.
+
+---
+
+## 📂 Repository Highlights
+
+- **`[embedded-stm32-examples](link)`** — Low-level driver examples for STM32 (SPI, I2C, ADC with DMA).
+- **`[linux-system-programming](link)`** — Examples of multithreaded applications, IPC, and system daemons.
+- **`[ci-cd-templates](link)`** — Templates and utilities for setting up GitLab CI/CD pipelines for embedded projects.
+- **`[network-server-example](link)`** — A high-performance TCP server in C using `epoll`.
+
+---
+
 ## 📊 GitHub Statistics
-
-### Development Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimk4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&include_all_commits=true&count_private=true&theme=onedark&show_icons=true&bg_color=0D1117&hide=prs,issues&title_color=FF6B6B&text_color=C9D1D9&icon_color=4ECDC4)
-
-### Coding Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimk4&stats_format=bytes&theme=onedark&bg_color=0D1117&text_color=C9D1D9&title_color=FF6B6B)
 
 ### Weekly Activity
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rimk4&theme=react-dark&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117&height=250)
@@ -133,3 +118,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
 </div>
+
+
+**✨ I'm always open to interesting challenges and contributing to complex, impactful projects. Let's connect!**
