@@ -99,10 +99,10 @@ Open to opportunities in St. Petersburg, Moscow, or remote work.
 
 ## 📂 Repository Highlights
 
-- **`[embedded-stm32-examples](link)`** — Low-level driver examples for STM32 (SPI, I2C, ADC with DMA).
-- **`[linux-system-programming](link)`** — Examples of multithreaded applications, IPC, and system daemons.
-- **`[ci-cd-templates](link)`** — Templates and utilities for setting up GitLab CI/CD pipelines for embedded projects.
-- **`[network-server-example](link)`** — A high-performance TCP server in C using `epoll`.
+- **`[embedded-stm32-examples](https://github.com/Rimk4/embedded-stm32-examples)`** — Low-level driver examples for STM32 (SPI, I2C, ADC with DMA).
+- **`[linux-system-programming](https://github.com/Rimk4/linux-system-programming)`** — Examples of multithreaded applications, IPC, and system daemons.
+- **`[ci-cd-templates](https://github.com/Rimk4/ci-cd-templates)`** — Templates and utilities for setting up GitLab CI/CD pipelines for embedded projects.
+- **`[network-server-example](https://github.com/Rimk4/network-server-example)`** — A high-performance TCP server in C using `epoll`.
 
 ---
 
